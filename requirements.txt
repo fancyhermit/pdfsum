@@ -1,0 +1,7 @@
+PyPDF2             
+requests            
+pymongo               
+nltk               
+tensorflow          
+scikit-learn         
+python-dotenv
