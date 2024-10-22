@@ -1,0 +1,11 @@
+# Required libraries
+PyPDF2             # For PDF reading
+requests             # For downloading PDFs from URLs
+pymongo               # MongoDB driver for connecting to MongoDB Atlas
+nltk               # Natural Language Toolkit for text processing
+tensorflow          # TensorFlow for building the LSTM model
+scikit-learn         # For TF-IDF keyword extraction
+python-dotenv         # For loading environment variables from .env file (optional for local dev)
+
+# Replit dependencies are handled automatically on Replit, 
+# so you don’t need to add any special Replit-specific dependencies.
